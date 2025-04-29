@@ -8,7 +8,7 @@
     <h1>The International Space Station</h1>
     <p>By Lyba Rae</p>
     <img src="Astro.jpg" alt="Astronauts looking at the camera, with wide smiles.">
-    <h2></h2>5 Ordered Facts About the ISS</h2>
+    <h2> Ordered Facts About the ISS</h2>
     <section>
       <div>
 <ol>
